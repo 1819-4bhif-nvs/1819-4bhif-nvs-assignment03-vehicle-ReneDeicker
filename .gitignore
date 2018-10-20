@@ -143,3 +143,7 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/java,maven,windows,intellij
+
+.idea/
+target/
+db/
